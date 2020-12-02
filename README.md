@@ -5,6 +5,7 @@ First time joining the programming puzzle solving during Advent.
 **Note:** It's more fun to solve these puzzles yourself, so I highly recommend to do so, before checking my solutions.
 
 - Day01 - [Puzzle](https://adventofcode.com/2020/day/1) - [Solution](Day01/)
+- Day02 - [Puzzle](https://adventofcode.com/2020/day/2) - [Solution](Day02/)
 
 ## License
 
