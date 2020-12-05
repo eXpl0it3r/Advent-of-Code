@@ -55,10 +55,10 @@ namespace Day05
             {
                 case 'F':
                 case 'L':
-                    return (range.min, range.min + (int) Math.Floor((range.max - range.min) / 2.0));
+                    return (range.min, range.min + (range.max - range.min) / 2);
                 case 'B':
                 case 'R':
-                    return (range.max - (int) Math.Floor((range.max - range.min) / 2.0), range.max);
+                    return (range.max - (range.max - range.min) / 2, range.max);
                 default:
                     throw new ArgumentOutOfRangeException($"Unexpected position value provided {position}");
             }
