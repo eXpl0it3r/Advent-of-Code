@@ -8,6 +8,7 @@ First time joining the programming puzzle solving during Advent.
 - Day02 - [Puzzle](https://adventofcode.com/2020/day/2) - [Solution](Day02/)
 - Day03 - [Puzzle](https://adventofcode.com/2020/day/3) - [Solution](Day03/)
 - Day04 - [Puzzle](https://adventofcode.com/2020/day/4) - [Solution](Day04/)
+- Day05 - [Puzzle](https://adventofcode.com/2020/day/5) - [Solution](Day05/)
 
 ## License
 
