@@ -9,6 +9,7 @@ First time joining the programming puzzle solving during Advent.
 - Day03 - [Puzzle](https://adventofcode.com/2020/day/3) - [Solution](Day03/)
 - Day04 - [Puzzle](https://adventofcode.com/2020/day/4) - [Solution](Day04/)
 - Day05 - [Puzzle](https://adventofcode.com/2020/day/5) - [Solution](Day05/)
+- Day06 - [Puzzle](https://adventofcode.com/2020/day/6) - [Solution](Day06/)
 
 ## Community
 
@@ -22,6 +23,8 @@ In case anyone wants to checkout some other solutions, here are links to some ot
 - https://github.com/MetGang/Advent-of-Code
 - https://github.com/S4kyt/AoC-2020
 - https://github.com/Rosme/aoc
+- https://github.com/NedoProgrammer/AdventOfCode
+- https://gitlab.com/rubenwardy/advent_of_code
 
 ## License
 
