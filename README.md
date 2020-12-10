@@ -13,6 +13,7 @@ First time joining the programming puzzle solving during Advent.
 - Day07 - [Puzzle](https://adventofcode.com/2020/day/7) - [Solution](Day07/)
 - Day08 - [Puzzle](https://adventofcode.com/2020/day/8) - [Solution](Day08/)
 - Day09 - [Puzzle](https://adventofcode.com/2020/day/9) - [Solution](Day09/)
+- Day10 - [Puzzle](https://adventofcode.com/2020/day/10) - [Solution](Day10/)
 
 ## Community
 
