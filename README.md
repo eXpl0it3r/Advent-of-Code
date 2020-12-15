@@ -16,6 +16,7 @@ First time joining the programming puzzle solving during Advent.
 - Day10 - [Puzzle](https://adventofcode.com/2020/day/10) - [Solution](Day10/)
 - Day11 - [Puzzle](https://adventofcode.com/2020/day/11) - [Solution](Day11/)
 - Day12 - [Puzzle](https://adventofcode.com/2020/day/12) - [Solution](Day12/)
+- Day14 - [Puzzle](https://adventofcode.com/2020/day/14) - [Solution](Day14/)
 - Day15 - [Puzzle](https://adventofcode.com/2020/day/15) - [Solution](Day15/)
 
 ## Community
