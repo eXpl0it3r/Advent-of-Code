@@ -29,12 +29,13 @@ In case anyone wants to checkout some other solutions, here are links to some ot
 - [Dreamykass](https://github.com/Dreamykass/advent-of-code)
 - [metaquarx](https://github.com/metaquarx/advent_of_code_2020)
 - [Jonny](https://github.com/JonnyPtn/AOC2020)
-- [Orlha](https://github.com/Orlha/advent_2020)
+- [Danetta](https://github.com/Orlha/advent_2020)
 - [Stritch](https://github.com/MetGang/Advent-of-Code)
 - [S4kyt](https://github.com/S4kyt/AoC-2020)
 - [Rosme](https://github.com/Rosme/aoc)
 - [nedoprogrammer](https://github.com/NedoProgrammer/AdventOfCode)
 - [rubenwardy](https://gitlab.com/rubenwardy/advent_of_code)
+- [Mario](https://github.com/MarioLiebisch/Advent-of-Code-2020)
 
 ## License
 
