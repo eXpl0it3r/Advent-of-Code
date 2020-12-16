@@ -19,21 +19,22 @@ First time joining the programming puzzle solving during Advent.
 - Day13 - [Puzzle](https://adventofcode.com/2020/day/13) - [Solution](Day13/)
 - Day14 - [Puzzle](https://adventofcode.com/2020/day/14) - [Solution](Day14/)
 - Day15 - [Puzzle](https://adventofcode.com/2020/day/15) - [Solution](Day15/)
+- Day16 - [Puzzle](https://adventofcode.com/2020/day/16) - [Solution](Day16/)
 
 ## Community
 
 We're have quite some fun on the [SFML Discord](https://discord.gg/nr4X7Fh) server with these puzzles.
 In case anyone wants to checkout some other solutions, here are links to some other repos.
 
-- https://github.com/Dreamykass/advent-of-code
-- https://github.com/metaquarx/advent_of_code_2020
-- https://github.com/JonnyPtn/AOC2020
-- https://github.com/Orlha/advent_2020
-- https://github.com/MetGang/Advent-of-Code
-- https://github.com/S4kyt/AoC-2020
-- https://github.com/Rosme/aoc
-- https://github.com/NedoProgrammer/AdventOfCode
-- https://gitlab.com/rubenwardy/advent_of_code
+- [Dreamykass](https://github.com/Dreamykass/advent-of-code)
+- [metaquarx](https://github.com/metaquarx/advent_of_code_2020)
+- [Jonny](https://github.com/JonnyPtn/AOC2020)
+- [Orlha](https://github.com/Orlha/advent_2020)
+- [Stritch](https://github.com/MetGang/Advent-of-Code)
+- [S4kyt](https://github.com/S4kyt/AoC-2020)
+- [Rosme](https://github.com/Rosme/aoc)
+- [nedoprogrammer](https://github.com/NedoProgrammer/AdventOfCode)
+- [rubenwardy](https://gitlab.com/rubenwardy/advent_of_code)
 
 ## License
 
