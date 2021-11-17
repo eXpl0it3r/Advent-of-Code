@@ -90,7 +90,7 @@ namespace Day17
                 }
             }
 
-            var count = hyper.Sum(s => s.Sum(l => l.Sum(c => c.Sum(w => w.state ? 1 : 0))));
+            var count = hyper.SelectMany(s => s.SelectMany(l => l.SelectMany(c => c))).Sum(w => w.state ? 1 : 0);
             Console.WriteLine($"Sum: {count}");
         }
 
@@ -263,7 +263,7 @@ namespace Day17
                 }
             }
 
-            var count = cubes.Sum(s => s.Sum(l => l.Sum(c => c.state ? 1 : 0)));
+            var count = cubes.SelectMany(s => s.SelectMany(l => l)).Sum(c => c.state ? 1 : 0);
             Console.WriteLine($"Sum: {count}");
         }
 
