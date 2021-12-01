@@ -7,6 +7,6 @@
 
 ## License
 
-The input files and puzzle text are under copyright of Advent of Code and are only included for completness sake.
+The input files and puzzle text are under copyright of Advent of Code and are only included for completeness sake.
 
 The code itself is is available under 2 licenses: Public Domain or MIT -- choose whichever you prefer, see also the [license file](LICENSE.md).
