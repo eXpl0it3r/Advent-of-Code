@@ -8,6 +8,7 @@ I'm hoping this year won't have a deal breaker puzzle as last year.
 - Day01 - [Puzzle](https://adventofcode.com/2021/day/1) - [Solution](Day01/)
 - Day02 - [Puzzle](https://adventofcode.com/2021/day/2) - [Solution](Day02/)
 - Day03 - [Puzzle](https://adventofcode.com/2021/day/3) - [Solution](Day03/)
+- Day04 - [Puzzle](https://adventofcode.com/2021/day/4) - [Solution](Day04/)
 
 ## Community
 
