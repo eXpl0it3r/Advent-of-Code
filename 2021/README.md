@@ -9,6 +9,7 @@ I'm hoping this year won't have a deal breaker puzzle as last year.
 - Day02 - [Puzzle](https://adventofcode.com/2021/day/2) - [Solution](Day02/)
 - Day03 - [Puzzle](https://adventofcode.com/2021/day/3) - [Solution](Day03/)
 - Day04 - [Puzzle](https://adventofcode.com/2021/day/4) - [Solution](Day04/)
+- Day05 - [Puzzle](https://adventofcode.com/2021/day/5) - [Solution](Day05/)
 
 ## Community
 
@@ -22,3 +23,4 @@ In case anyone wants to checkout some other solutions, here are links to some ot
 - [metaquarx](https://gitlab.com/metaquarx/aoc)
 - [nick-kline](https://github.com/nick-kline/AOC2021)
 - [Stritch](https://github.com/MetGang/Advent-of-Code)
+- [swordfatih](https://github.com/swordfatih/advent-of-code-2021)
