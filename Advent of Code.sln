@@ -1,9 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2020", "2020", "{36F1DEAE-B5DD-4F62-855E-CE283EE6536A}"
-ProjectSection(SolutionItems) = preProject
-	2020\README.md = 2020\README.md
-EndProjectSection
+	ProjectSection(SolutionItems) = preProject
+		2020\README.md = 2020\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day01", "2020\Day01\Day01.csproj", "{4EDE5EFA-B8E4-46A3-9CBC-144B4C9B4764}"
 EndProject
@@ -42,18 +43,18 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day18", "2020\Day18\Day18.csproj", "{B38E190B-0DE7-4E64-A110-8F52F7A5040B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2021", "2021", "{84C3864C-81F3-48BB-9D82-9A282FD2C911}"
-ProjectSection(SolutionItems) = preProject
-	2021\README.md = 2021\README.md
-EndProjectSection
+	ProjectSection(SolutionItems) = preProject
+		2021\README.md = 2021\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day01", "2021\Day01\Day01.csproj", "{6476C32D-ED77-4499-BF9E-4CD6F8F69E50}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{97C46194-82D0-408E-826A-4164F3E8926B}"
-ProjectSection(SolutionItems) = preProject
-	.gitignore = .gitignore
-	LICENSE.md = LICENSE.md
-	README.md = README.md
-EndProjectSection
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day02", "2021\Day02\Day02.csproj", "{9F722CBE-7A85-4B05-840E-DDD58D385099}"
 EndProject
@@ -64,6 +65,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day05", "2021\Day05\Day05.csproj", "{0DC34A33-92B9-43AB-B419-292E9EE8588D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day06", "2021\Day06\Day06.csproj", "{807154C3-C923-4A66-B9F3-6596D64DB7C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day07", "2021\Day07\Day07.csproj", "{0C36AEE9-6FA9-497D-A1F6-5F29759A8AD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +174,10 @@ Global
 		{807154C3-C923-4A66-B9F3-6596D64DB7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{807154C3-C923-4A66-B9F3-6596D64DB7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{807154C3-C923-4A66-B9F3-6596D64DB7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C36AEE9-6FA9-497D-A1F6-5F29759A8AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C36AEE9-6FA9-497D-A1F6-5F29759A8AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C36AEE9-6FA9-497D-A1F6-5F29759A8AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C36AEE9-6FA9-497D-A1F6-5F29759A8AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4EDE5EFA-B8E4-46A3-9CBC-144B4C9B4764} = {36F1DEAE-B5DD-4F62-855E-CE283EE6536A}
@@ -197,5 +204,6 @@ Global
 		{71003448-176D-4936-AEED-EC8AAA698F72} = {84C3864C-81F3-48BB-9D82-9A282FD2C911}
 		{0DC34A33-92B9-43AB-B419-292E9EE8588D} = {84C3864C-81F3-48BB-9D82-9A282FD2C911}
 		{807154C3-C923-4A66-B9F3-6596D64DB7C4} = {84C3864C-81F3-48BB-9D82-9A282FD2C911}
+		{0C36AEE9-6FA9-497D-A1F6-5F29759A8AD0} = {84C3864C-81F3-48BB-9D82-9A282FD2C911}
 	EndGlobalSection
 EndGlobal
