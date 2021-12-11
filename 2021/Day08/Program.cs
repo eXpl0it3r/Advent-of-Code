@@ -1,7 +1,3 @@
-using System;
-using System.IO;
-using System.Linq;
-
 var input = File.ReadAllLines("input.txt")
                 .Select(l =>
                         {
@@ -39,7 +35,7 @@ foreach (var line in input)
      * 4     5
      * ## 6 ##
      */
-    var parts = Enumerable.Repeat((char)0, 7).ToList();
+    var parts = Enumerable.Repeat((char) 0, 7).ToList();
     var zeroOrSixOrNine = line.Signal.Where(s => s.Length == 6).ToList();
     var twoOrThreeOrFive = line.Signal.Where(s => s.Length == 5).ToList();
 

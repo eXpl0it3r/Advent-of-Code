@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-
-var input = File.ReadAllLines("input.txt")
+﻿var input = File.ReadAllLines("input.txt")
                 .First();
 
 var partOne = input.Split(',')

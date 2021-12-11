@@ -1,25 +1,25 @@
 var input = File.ReadAllLines("input.txt")
                 .Where(l => l.Length > 0);
 var syntaxPoints = new Dictionary<char, int>
-             {
-                 { ')', 3 },
-                 { ']', 57 },
-                 { '}', 1197 },
-                 { '>', 25137 }
-             };
-var completionPoints = new Dictionary<char, long>
                    {
-                       { ')', 1 },
-                       { ']', 2 },
-                       { '}', 3 },
-                       { '>', 4 }
+                       {')', 3},
+                       {']', 57},
+                       {'}', 1197},
+                       {'>', 25137}
                    };
+var completionPoints = new Dictionary<char, long>
+                       {
+                           {')', 1},
+                           {']', 2},
+                           {'}', 3},
+                           {'>', 4}
+                       };
 var mapping = new Dictionary<char, char>
               {
-                  { '(', ')' },
-                  { '[', ']' },
-                  { '{', '}' },
-                  { '<', '>' }
+                  {'(', ')'},
+                  {'[', ']'},
+                  {'{', '}'},
+                  {'<', '>'}
               };
 
 var partOne = 0;
@@ -58,7 +58,7 @@ var partTwo = scores.OrderBy(s => s)
                     .Skip(scores.Count / 2)
                     .Take(1)
                     .Single();
-                    
+
 
 Console.WriteLine($"PartOne: {partOne}");
 Console.WriteLine($"PartTwo: {partTwo}");

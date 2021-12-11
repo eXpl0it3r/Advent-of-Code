@@ -5,9 +5,7 @@ dotnet new console -lang "C#" -n "Day$day" -o "$year/Day$day/" -f net6.0 --langV
 dotnet sln add "$year/Day$day"
 
 # Better default code
-$program = 'using System.IO;
-
-var input = File.ReadAllLines("input.txt");'
+$program = 'var input = File.ReadAllLines("input.txt");'
 
 Set-Content -Path "$year/Day$day/Program.cs" -Value $program
 

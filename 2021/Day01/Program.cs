@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-
-void PartOne(IEnumerable<int> input)
+﻿void PartOne(IEnumerable<int> input)
 {
     int? previous = null;
     var increases = 0;

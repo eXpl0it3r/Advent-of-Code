@@ -1,8 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Linq;
-
-var inputs = File.ReadLines("input.txt")
+﻿var inputs = File.ReadLines("input.txt")
                  .Select(l =>
                          {
                              var instruction = l.Split(' ');
@@ -17,7 +13,7 @@ var inputs = File.ReadLines("input.txt")
 var depth = inputs.Where(i => i.Instruction == "up")
                   .Select(i => -i.Amount)
                   .Concat(inputs.Where(i => i.Instruction == "down")
-                               .Select(i => i.Amount))
+                                .Select(i => i.Amount))
                   .Sum();
 var forward = inputs.Where(i => i.Instruction == "forward")
                     .Select(i => i.Amount)
