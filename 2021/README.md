@@ -17,6 +17,7 @@ I'm hoping this year won't have a deal breaker puzzle as last year.
 - Day10 - [Puzzle](https://adventofcode.com/2021/day/10) - [Solution](Day10/)
 - Day11 - [Puzzle](https://adventofcode.com/2021/day/11) - [Solution](Day11/)
 - Day12 - [Puzzle](https://adventofcode.com/2021/day/12) - [Solution](Day12/)
+- Day13 - [Puzzle](https://adventofcode.com/2021/day/13) - [Solution](Day13/)
 
 ## Community
 
