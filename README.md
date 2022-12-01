@@ -2,8 +2,9 @@
 
 **Note:** It's more fun to solve these puzzles yourself, so I highly recommend to do so, before checking my solutions.
 
-- [2020](2020/)
+- [2022](2022/)
 - [2021](2021/)
+- [2020](2020/)
 
 ## License
 
