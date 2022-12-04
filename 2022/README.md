@@ -7,7 +7,8 @@ I'm hoping this year won't have a deal breaker puzzle as last year.
 
 - Day01 - [Puzzle](https://adventofcode.com/2022/day/1) - [Solution](Day01/)
 - Day02 - [Puzzle](https://adventofcode.com/2022/day/2) - [Solution](Day02/)
-- Day02 - [Puzzle](https://adventofcode.com/2022/day/3) - [Solution](Day03/)
+- Day03 - [Puzzle](https://adventofcode.com/2022/day/3) - [Solution](Day03/)
+- Day04 - [Puzzle](https://adventofcode.com/2022/day/4) - [Solution](Day04/)
 
 ## Community
 
@@ -16,5 +17,5 @@ In case anyone wants to checkout some other solutions, here are links to some ot
 
 - [Jonny](https://github.com/JonnyPtn/AOC)
 - [Mario](https://github.com/MarioLiebisch/Advent-of-Code-2022)
-- [metaquarx](https://gitlab.com/metaquarx/aoc)
+- [metaquarx](https://github.com/metaquarx/AoC)
 - [Stritch](https://github.com/MetGang/Advent-of-Code)
