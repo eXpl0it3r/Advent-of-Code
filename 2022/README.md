@@ -11,6 +11,7 @@ I'm hoping this year won't have a deal breaker puzzle as last year.
 - Day04 - [Puzzle](https://adventofcode.com/2022/day/4) - [Solution](Day04/)
 - Day05 - [Puzzle](https://adventofcode.com/2022/day/5) - [Solution](Day05/)
 - Day06 - [Puzzle](https://adventofcode.com/2022/day/6) - [Solution](Day06/)
+- Day07 - [Puzzle](https://adventofcode.com/2022/day/7) - [Solution](Day07/)
 
 ## Community
 
