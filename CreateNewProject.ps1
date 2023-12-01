@@ -1,7 +1,7 @@
-param([string] $year = "2022", [Parameter(Mandatory)] [string] $day)
+param([string] $year = "2023", [Parameter(Mandatory)] [string] $day)
 
 # Create new project & add it to the solution
-dotnet new console -lang "C#" -n "Day$day" -o "$year/Day$day/" -f net7.0 --langVersion 11.0
+dotnet new console -lang "C#" -n "Day$day" -o "$year/Day$day/" -f net8.0 --langVersion 12.0
 dotnet sln add "$year/Day$day"
 
 # Better default code
