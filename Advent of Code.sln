@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# 
+#
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2020", "2020", "{36F1DEAE-B5DD-4F62-855E-CE283EE6536A}"
 	ProjectSection(SolutionItems) = preProject
 		2020\README.md = 2020\README.md
@@ -107,6 +107,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2023", "2023", "{2C616699-A1B0-49E3-AA2E-3552366594C5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day01", "2023\Day01\Day01.csproj", "{6FF128ED-CFB8-4E6A-9864-9164B407B489}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2024", "2024", "{FDE21B71-A1AE-401B-B4EA-23740015987A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

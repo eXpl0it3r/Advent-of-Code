@@ -2,6 +2,7 @@
 
 **Note:** It's more fun to solve these puzzles yourself, so I highly recommend to do so, before checking my solutions.
 
+- [2024](2024/)
 - [2023](2023/)
 - [2022](2022/)
 - [2021](2021/)

@@ -1,8 +1,5 @@
 # Advent of Code 2023
 
-Second time joining the programming puzzle solving during Advent.
-I'm hoping this year won't have a deal breaker puzzle as last year.
-
 **Note:** It's more fun to solve these puzzles yourself, so I highly recommend to do so, before checking my solutions.
 
 - Day01 - [Puzzle](https://adventofcode.com/2023/day/1) - [Solution](Day01/)
