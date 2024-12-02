@@ -17,7 +17,7 @@ I'm hoping this year won't have a deal breaker puzzle as last year.
 ## Community
 
 Looking forward to discussing things on the [SFML Discord](https://discord.gg/nr4X7Fh) server again.
-In case anyone wants to checkout some other solutions, here are links to some other repos.
+In case anyone wants to check out some other solutions, here are links to some other repos.
 
 - [Jonny](https://github.com/JonnyPtn/AOC)
 - [Mario](https://github.com/MarioLiebisch/Advent-of-Code-2022)
