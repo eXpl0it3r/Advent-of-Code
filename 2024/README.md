@@ -5,6 +5,7 @@
 - Day01 - [Puzzle](https://adventofcode.com/2024/day/1) - [Solution](Day01/)
 - Day02 - [Puzzle](https://adventofcode.com/2024/day/2) - [Solution](Day02/)
 - Day03 - [Puzzle](https://adventofcode.com/2024/day/3) - [Solution](Day03/)
+- Day04 - [Puzzle](https://adventofcode.com/2024/day/4) - [Solution](Day04/)
 
 ## Community
 
